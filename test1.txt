@@ -1,1 +1,2 @@
-rtbtybynyunyunyu
+Đây là file week1.txt
+Thuộc branch: week1 và main
